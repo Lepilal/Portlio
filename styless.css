@@ -92,6 +92,7 @@ h6{
     font-weight: bold;
     padding: 13px 30px;
     border-radius: 30px;
+    position: absolute;
     transition: .4s;
 }
 .button:hover{
@@ -107,7 +108,7 @@ h6{
 .text{
     width: 550px;
     padding: 100px 0px;
-    background-color: black;
+    color: white;
 }
 .main{
     width: 1130px;
